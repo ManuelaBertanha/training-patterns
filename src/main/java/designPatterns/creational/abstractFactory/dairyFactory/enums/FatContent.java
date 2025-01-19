@@ -1,4 +1,4 @@
-package designPatterns.creational.abstractFactory.dairyFactory.model.enums;
+package designPatterns.creational.abstractFactory.dairyFactory.enums;
 
 public enum FatContent {
 
